@@ -1,0 +1,45 @@
+body {
+    background-color: skyblue;
+    border: 5px solid black;
+    border-radius: 2%;
+
+}
+
+ul {
+    list-style-type: none;
+    background-color: aliceblue;
+    padding: 15px;
+    padding-bottom: 70px;
+    font-size: larger;
+}
+
+li {
+    display: inline;
+    padding-left: 50px;
+    background-color: calc(h1)
+
+}
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bolder;
+    color: aquamarine;
+    font-size: 30px;
+    font-variant-position: super;
+}
+
+marquee {
+    text-decoration-color: aquamarine;
+    color: blueviolet;
+    font-size: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
