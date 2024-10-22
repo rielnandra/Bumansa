@@ -29,11 +29,7 @@ h1 {
     font-variant-position: super;
 }
 
-marquee {
-    text-decoration-color: aquamarine;
-    color: blueviolet;
-    font-size: 15px;
-}
+
 
 img {
     display: block;
