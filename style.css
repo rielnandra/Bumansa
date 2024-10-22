@@ -29,7 +29,11 @@ h1 {
     font-variant-position: super;
 }
 
-
+marquee {
+    text-decoration-color: aquamarine;
+    color: blueviolet;
+    font-size: 15px;
+}
 
 img {
     display: block;
@@ -40,8 +44,7 @@ p {
     text-align: justify;
 }
 
-h2 {
-    text-align: center;
-    color: white;
-       
+h2 { 
+    text-align:center;
+
 }
