@@ -6,9 +6,8 @@ body {
 
 }
 
-ul {
+ui {
     list-style-type: none;
-    background-color: aliceblue;
     padding: 15px;
     padding-bottom: 70px;
     font-size: larger;
