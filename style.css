@@ -1,8 +1,6 @@
 
 body {
-    border: 5px solid black;
-    border-radius: 2%;
-    background-image: url("imgin/usaw.jpg");
+        background-image: url("imgin/usaw.jpg");
   background-attachment: fixed;  
   background-size: cover;
 
