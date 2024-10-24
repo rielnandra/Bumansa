@@ -39,6 +39,11 @@ marquee {
     font-size: 15px;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
 p {
     text-align: justify;
 }
