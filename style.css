@@ -8,9 +8,9 @@ body {
 .navbar {
   display: flex;
   justify-content: space-between;
-  align-items: right;
+  align-items: center;
   padding: 20px 50px;
-  background: white;
+  background: #fff;
   border-bottom: 1px solid #eee;
 }
 
@@ -26,6 +26,8 @@ body {
   list-style: none;
   display: flex;
   gap: 30px;
+  margin: 0;
+  padding: 0;
 }
 .nav-links li a {
   text-decoration: none;
