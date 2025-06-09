@@ -16,12 +16,14 @@ Website **Bumansa** dibangun dengan tujuan untuk mengasah keterampilan dasar pen
 
 ## 🚀 Teknologi yang Digunakan
 
-- **HTML5 & CSS3** – Untuk tampilan dan struktur halaman
-- **Python 3** – Untuk logika backend
+- **HTML & CSS** – Untuk tampilan dan struktur halaman
+- **Python ** – Untuk logika backend
 - **Flask** – Framework Python ringan untuk web
 - **VS Code** – Editor kode yang digunakan
 
 ## 📁 Struktur Folder
+
+```
 bumansa/
 │
 ├── static/
@@ -36,32 +38,24 @@ bumansa/
 ├── app.py
 ├── README.md
 └── requirements.txt
+```
 
-## 🛠️ Cara Menjalankan (Lokal)
+### 🛠️ Cara Menjalankan (Lokal)
 
 1. Install dependensi Python:
    ```bash
    pip install -r requirements.txt
+   ```
 
 
-👥 Tim Pengembang
-	•	[Nama Kamu]
-	•	[Nama Temanmu]
-	•	[Nama lainnya jika ada]
+## 👥 Tim Pengembang
 
-📅 Deadline Proyek
-
-12 Juni 2025
-
-🎯 Tujuan Pembelajaran
-	•	Menguasai dasar-dasar HTML dan CSS
-	•	Memahami struktur pengembangan website
-	•	Mempelajari integrasi backend Python melalui Flask
-	•	Melatih kemampuan kolaborasi dalam tim pengembangan
-
+	• Ariel Anandra Putra 	  Sebagai; ✅Programmer Web
+	• Muhammad Raihan Akbar	  Sebagai; ✅Programmer Aplikasi
+	• Raka Kavi Khalfani	  Sebagai; ✅Content Writer
+ 	• Bagas Sampurna Putra	  Sebagai; ✅Graphic Designer
+ 	
 ⸻
 
 Proyek ini dikembangkan sebagai bagian dari pembelajaran Informatika kelas 10. Seluruh konten dan fitur merupakan hasil kerja mandiri dari tim pengembang Bumansa.
-
-'''markdown
-
+	
