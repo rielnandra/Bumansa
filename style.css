@@ -1,58 +1,68 @@
-
 body {
-        background-image: url("imgin/usaw.jpg");
-  background-attachment: fixed;  
-  background-size: cover;
+   margin: 0;
+  font-family: 'Arial', sans-serif;
+   background: linear-gradient(to right, #ffe3e3, #ffd6e0);
+
 
 }
 
-ul {
-    list-style-type: none;
-    padding: 15px;
-    padding-bottom: 70px;
-    font-size: larger;
+
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.logo span {
+  color: #444;
 }
 
-li {
-    display: inline;
-    padding-left: 50px;
-    background-color: calc(h1)
-
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+.nav-links li a {
+  text-decoration: none;
+  color: #000;
 }
 
-h1 {
-    text-align: center;
-    font-weight: bolder;
-    color: whitesmoke;
-    font-size: 30px;
-    font-variant-position: super; 
-    font-family: "JawaPalsu";
+.icons {
+  font-size: 20px;
 }
 
-marquee {
-    text-decoration-color: aquamarine;
-    color: blueviolet;
-    font-size: 15px;
+.hero {
+  display: flex;
+  align-items: center;
+  padding: 60px 50px;
+  background: #f8f8f8;
 }
 
-img {
-    display: block;
-    margin: auto;
+.hero-text {
+  flex: 1;
+}
+.hero-text h1 {
+  font-size: 36px;
+}
+.hero-text p {
+  margin-top: 10px;
+  max-width: 400px;
+}
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: gold;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 30px;
 }
 
-p {
-    text-align: center;
-    color: whitesmoke;
-    text-align: justify;
+.hero-image {
+  flex: 1;
+  text-align: right;
 }
-
-h2 { 
-    text-align: center;
-    color: red;
-
-}
-
-font-face (
-           font-family: 'JawaPalsu';
-  src: url('fonts/JAWAPALSU.ttf') format('truetype');
+.hero-image img {
+  max-width: 100%;
+  border-radius: 20px;
 }
